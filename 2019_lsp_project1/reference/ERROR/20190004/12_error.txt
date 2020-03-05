@@ -1,4 +1,0 @@
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190004/12.c: In function ‘main’:
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190004/12.c:69:2: error: expected declaration or statement at end of input
-  exit(0);
-  ^~~~

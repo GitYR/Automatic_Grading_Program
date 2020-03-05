@@ -1,6 +1,0 @@
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190003/11.c: In function ‘main’:
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190003/11.c:15:18: error: ‘ssu_signal’ undeclared (first use in this function); did you mean ‘ssignal’?
-  signal(SIGUSR1, ssu_signal);
-                  ^~~~~~~~~~
-                  ssignal
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190003/11.c:15:18: note: each undeclared identifier is reported only once for each function it appears in

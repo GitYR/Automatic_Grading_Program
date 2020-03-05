@@ -1,6 +1,0 @@
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190016/12.c: In function ‘main’:
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190016/12.c:36:38: error: ‘ssu_thread_consumer’ undeclared (first use in this function); did you mean ‘ssu_thread_producer’?
-  pthread_create(&consumer_tid, NULL, ssu_thread_consumer, NULL);
-                                      ^~~~~~~~~~~~~~~~~~~
-                                      ssu_thread_producer
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190016/12.c:36:38: note: each undeclared identifier is reported only once for each function it appears in

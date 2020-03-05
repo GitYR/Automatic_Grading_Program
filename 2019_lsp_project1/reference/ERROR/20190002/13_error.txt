@@ -1,4 +1,0 @@
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190002/13.c: In function ‘main’:
-/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190002/13.c:12:18: error: storage size of ‘sig_act’ isn’t known
-  struct sigacion sig_act;
-                  ^~~~~~~
