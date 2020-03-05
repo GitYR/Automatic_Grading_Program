@@ -1,0 +1,25 @@
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c: In function ‘ssu_signal’:
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:7:2: warning: implicit declaration of function ‘printf’ [-Wimplicit-function-declaration]
+  printf("SIGUSR1 catched!!\n");
+  ^~~~~~
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:7:2: warning: incompatible implicit declaration of built-in function ‘printf’
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:7:2: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c: In function ‘main’:
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:25:3: warning: implicit declaration of function ‘fprintf’ [-Wimplicit-function-declaration]
+   fprintf(stderr, "fork error\n");
+   ^~~~~~~
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:25:3: warning: incompatible implicit declaration of built-in function ‘fprintf’
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:25:3: note: include ‘<stdio.h>’ or provide a declaration of ‘fprintf’
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:25:11: error: ‘stderr’ undeclared (first use in this function); did you mean ‘opterr’?
+   fprintf(stderr, "fork error\n");
+           ^~~~~~
+           opterr
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:25:11: note: each undeclared identifier is reported only once for each function it appears in
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:31:5: warning: incompatible implicit declaration of built-in function ‘printf’
+     printf("child : SIGUSR1 pending\n");
+     ^~~~~~
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:31:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:40:5: warning: incompatible implicit declaration of built-in function ‘printf’
+     printf("parent : SIGUSR1 pending\n");
+     ^~~~~~
+/home/cyr/ds/2019_lsp_project1/project_source/STD_DIR/20190018/11.c:40:5: note: include ‘<stdio.h>’ or provide a declaration of ‘printf’
