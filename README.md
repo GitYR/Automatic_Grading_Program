@@ -10,4 +10,4 @@ The first function is to score student's blank answers with the right blank answ
 The second function is to score student's codes with the answer codes. Student's codes have to be run within 5 seconds. If there are any compile errors,the result point would be zero. In warning cases, the program subtracts 0.5 points for every warning messages. The function was written by Choi Young Rim(me).
 
 If you want to execute this program, at first, clone my git address and do 'make' command to build an executable file.
-If you did above recommendations, do 'su ./ssu_score -h' to know how to use the program and if you are well-acquainted with the former informations, do 'su ./ssu_score [STUDENT_DIRECTORY] [ANSWER_DIRECTORY] [OPTIONS]'
+If you did above recommendations, do 'sudo ./ssu_score -h' to know how to use the program and if you are well-acquainted with the former informations, do 'sudo ./ssu_score [STUDENT_DIRECTORY] [ANSWER_DIRECTORY] [OPTIONS]'
