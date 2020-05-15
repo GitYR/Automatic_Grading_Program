@@ -1,4 +1,4 @@
-# 2019_lsp_project1
+# Automatic_Grading_Program
 
 It was the first linux system programming project in first semester of 2019.
 The function of this project is to score student's midterm exam with the right answer files. 
